@@ -1,0 +1,1 @@
+I usually use moviesJoy website to watch stream movies for free. the problem with this website is wherever you clicked it opens an ad. i created an add blocking chrome extension to block those websites.an ad blocker will monitor your network traffic and make sure your browser doesn't send any requests to potential advertisers.
